@@ -1,4 +1,8 @@
+[![MasterHead]([![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+)]
+
 <h2 align="left">Hi 👋! My name is Sundara Siva Sreerag and I'm a , from ....</h2>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 
 ###
 
@@ -9,6 +13,7 @@
 
 ###
 
+# 💻 Tech Stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
   <img width="12" />
@@ -55,6 +60,9 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/9sreerag7/9sreerag7/output/github-snake.svg" />
 </picture>
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 ###
 
 <div align="center">
@@ -62,3 +70,4 @@
 </div>
 
 ###
+
