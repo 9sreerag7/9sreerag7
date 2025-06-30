@@ -1,6 +1,6 @@
 <img src="hello.jpg" alt="MasterHead" height="220" width="1100"/>
 
-<h2 align="left">Hi 👋! My name is Sundara Siva Sreerag and I'm a , from ....</h2>
+<h2 align="left">Hi 👋! My name is Sundara Siva Sreerag and I'm a , from Kollam, Kerala</h2>
 <img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ###
