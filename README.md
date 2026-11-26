@@ -1,12 +1,12 @@
 <img src="hello.jpg" alt="MasterHead" height="220" width="1100"/>
 
-<h2 align="left">Hi 👋! My name is Sundara Siva Sreerag and I'm a , from Kollam, Kerala</h2>
+<h2 align="left">Hi 👋! My name is Sundara Siva Sreerag, and I'm a Computer Science student from Kollam, Kerala.</h2>
 <img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=9sreerag7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api?username=9sreerag7&show_icons=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats" />
   
 ###
   
